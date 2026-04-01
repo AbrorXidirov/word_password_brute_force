@@ -22,5 +22,5 @@ Kompyuteringizda Python (3.7 yoki undan yuqori) o'rnatilgan bo'lishi shart. Uni 
 ### 2. Loyihani yuklab oling
 Terminal (CMD) ni oching va loyihani kompyuteringizga ko'chirib oling:
 ```bash
-git clone [https://github.com/SIZNING_USERNAME/LOYIHA_NOMI.git](https://github.com/SIZNING_USERNAME/LOYIHA_NOMI.git)
+git clone [https://github.com/SIZNING_USERNAME/LOYIHA_NOMI.git](https://github.com/AbrorXidirov/word_password_brute_force.git)
 cd LOYIHA_NOMI
