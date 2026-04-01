@@ -376,9 +376,7 @@ class ModernChecker(QWidget):
 
 if __name__ == "__main__":
     import multiprocessing
-
     multiprocessing.freeze_support()
-
     app = QApplication(sys.argv)
     window = ModernChecker()
     window.show()
