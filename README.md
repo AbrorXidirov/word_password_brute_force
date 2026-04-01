@@ -24,3 +24,6 @@ Terminal (CMD) ni oching va loyihani kompyuteringizga ko'chirib oling:
 ```bash
 git clone https://github.com/AbrorXidirov/word_password_brute_force.git
 cd word_password_brute_force
+```
+rockyou.txt hajmi katta bo'lganligi uchun uni internatdan yuklab loyiha papkasiga qo'shing.
+Manzili: https://github.com/RykerWilder/rockyou.txt/blob/main/rockyou.txt.zip
