@@ -12,9 +12,7 @@ from PyQt5.QtWidgets import (
 )
 from PyQt5.QtCore import QThread, pyqtSignal
 
-# 6 xonali sonlar uchun siz bergan manzil
-NUMBERS_TXT_PATH = r"C:\Users\xidirov_a\PycharmProjects\PythonProject\PyQt5\numbers.txt"
-# Shaxsiy parollar saqlanadigan fayl nomi (dastur turgan papkada yaratiladi)
+NUMBERS_TXT_PATH = r"numbers.txt"
 CUSTOM_TXT_PATH = "shaxsiy_parollar.txt"
 
 
