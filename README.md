@@ -27,3 +27,5 @@ cd word_password_brute_force
 ```
 rockyou.txt hajmi katta bo'lganligi uchun uni internatdan yuklab loyiha papkasiga qo'shing.
 Manzili: https://github.com/RykerWilder/rockyou.txt/blob/main/rockyou.txt.zip
+<img width="650" height="719" alt="image" src="https://github.com/user-attachments/assets/320af283-4378-4e4c-8024-1327c7dceed4" />
+
