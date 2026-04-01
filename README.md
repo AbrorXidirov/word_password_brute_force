@@ -25,9 +25,27 @@ Terminal (CMD) ni oching va loyihani kompyuteringizga ko'chirib oling:
 git clone https://github.com/AbrorXidirov/word_password_brute_force.git
 cd word_password_brute_force
 ```
-rockyou.txt hajmi katta bo'lganligi uchun uni internatdan yuklab loyiha papkasiga qo'shing.
+### 3. rockyou.txt hajmi katta bo'lganligi uchun uni internatdan yuklab loyiha papkasiga qo'shing.
 Manzili: https://github.com/RykerWilder/rockyou.txt/blob/main/rockyou.txt.zip
+# Qanday foydalaniladi?
+Qanday foydalaniladi?
+📁 DOCX Faylni Tanlash tugmasi orqali qulflangan Word faylini tanlang.
 
-#Dastur ishlashidan namunalar
+O'zingizga qulay bo'lgan Hujum lug'atini (rejimni) tanlang. Agar shaxsiy parollaringizni kiritmoqchi bo'lsangiz, "Shaxsiy ro'yxatni kiritish" rejimini tanlab, ekranda ochilgan oynaga ehtimoliy parollarni yozing.
+
+🚀 Boshlash tugmasini bosing va natijani kuting!
+
+⚠️ Ogohlantirish: Ushbu dastur faqatgina o'zingizga tegishli bo'lgan, ruxsat etilgan fayllar parolini tiklash uchun ta'lim va xavfsizlik maqsadida yaratilgan. Undan noqonuniy maqsadlarda foydalanish taqiqlanadi!
+# Kerakli kutubxonalarni o'rnatish
+
+```bash
+pip install -r requirements.txt
+```
+# .EXE fayl sifatida o'rnatish
+```bash
+pyinstaller --noconsole --onefile Cracker.py
+```
+
+# Dastur ishlashidan namunalar
 <img width="650" height="719" alt="image" src="https://github.com/user-attachments/assets/320af283-4378-4e4c-8024-1327c7dceed4" />
 
